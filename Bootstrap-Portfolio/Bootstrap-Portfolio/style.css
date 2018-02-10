@@ -1,0 +1,189 @@
+#navbarSupportedContent {
+        background-color: transparent;
+        padding: 20px;
+
+}
+    
+.navbar-brand {
+        background-color: rgb(9, 163, 163);
+        color: white;
+        padding: 20px;
+        border-style: solid;
+        border-width: 3px;
+        border-color: black;
+        border-radius: 25px;
+
+
+    }
+
+.navbar-expand-lg {
+        border: solid;
+        border-color: black;
+        border-width: 3px;
+        border-radius: 25px;
+
+}
+
+.sidenav {
+    width: 255px;
+    height: 164px;
+    position: absolute;
+    z-index: 1;
+    top: 140px;
+    right: 7%;
+    background-color:white;
+    overflow-x: hidden;
+    padding-top: 30px;
+    border-style: hidden;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 25px;
+    color: #4aaaa5;
+}
+
+.meThatDude {
+    float: left;
+    width: 205px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+    top: 41px;
+    border: solid;
+    border-radius: 25px;
+    border-width: 4px;
+
+  }
+
+
+
+
+.linkedin {
+    width: 20%;
+    height: 20%;
+    margin-left: 25px;
+
+
+}
+
+.connect {
+    color: #4aaaa5;
+    margin-top: 40px;
+
+
+}
+
+.github {
+    width: 20%;
+    height: 20%;
+    margin-left: 10px;
+}
+
+.main_body {
+    background-color: white;
+
+}
+
+.row1 {
+    width: 80%;
+
+}
+
+.col-sm-4 {
+    background-color: white;
+    border: solid;
+    border-radius: 25px;
+    padding: 22px;
+
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-image: "C:\Users\Chris\Desktop\Basic-Portfolio\assets\images\grey_wash_wall_@2X.png" ;
+    color: white;
+
+
+}
+
+.form {
+    padding: 20px;
+    width: 750px;
+    margin-left: 6%;
+    right: 50%;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+
+.main_section {
+    background-color: white;
+    width: 650px;
+    height: 450px;
+    margin-left: 100px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 25px;
+    padding-left: 38px;
+   
+
+
+}
+.hangman {
+    width: 200px;
+    height: 150px;
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+
+.RPGgame {
+    width: 200px;
+    height: 150px;
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+
+.triviagame {
+    width: 200px;
+    height: 120px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.RutgersInfoWidget {
+    width: 200px;
+    height: 120px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width:980px){
+    .body {
+      width: 100%;
+    }
+    .main_section {
+      width: 100%;
+    }
+  }
+  
+@media only screen and (max-width:768px){
+    .body {
+      width: 100%;
+    }
+    .main_section {
+      width: 100%;
+    }
+  }
+  
+@media only screen and (max-width:640px){
+    .body {
+      width: 100%;
+    }
+    .main_section {
+      width: 100%;
+  
+    }
